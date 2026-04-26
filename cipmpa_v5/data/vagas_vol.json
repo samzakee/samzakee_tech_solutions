@@ -1,0 +1,113 @@
+[
+  {
+    "tipo": "je",
+    "titulo": "EXTRAORDINÁRIA",
+    "dataIni": "2026-04-28",
+    "dataFim": "2026-04-28",
+    "hor": "08:00",
+    "horFim": "16:00",
+    "vagas": 1,
+    "localId": "l2",
+    "usuario": "Samuel Ribeiro dos Santos",
+    "id": "modp9ndg8stk",
+    "ativo": true,
+    "inscritos": [],
+    "createdAt": "2026-04-25T02:08:07.061Z"
+  },
+  {
+    "tipo": "operacao",
+    "titulo": "OPERAÇÃO FLORA",
+    "dataIni": "2026-05-04",
+    "dataFim": "2026-05-11",
+    "hor": "07:00",
+    "horFim": "19:00",
+    "vagas": 4,
+    "localId": "l5",
+    "usuario": "Samuel Ribeiro dos Santos",
+    "id": "moe92ntz6a8i",
+    "ativo": true,
+    "inscritos": [
+      {
+        "milId": "modr3625zsv1",
+        "inscritoEm": "2026-04-25T11:41:06.249Z"
+      },
+      {
+        "milId": "mo862zod2koq",
+        "inscritoEm": "2026-04-25T12:40:11.922Z"
+      }
+    ],
+    "createdAt": "2026-04-25T11:22:33.383Z"
+  },
+  {
+    "tipo": "operacao",
+    "titulo": "OPERAÇÃO FLORA",
+    "dataIni": "2026-05-12",
+    "dataFim": "2026-05-19",
+    "hor": "07:00",
+    "horFim": "19:00",
+    "vagas": 4,
+    "localId": "l5",
+    "usuario": "Samuel Ribeiro dos Santos",
+    "id": "moe93ghaxbvg",
+    "ativo": true,
+    "inscritos": [
+      {
+        "milId": "modr3625zsv1",
+        "inscritoEm": "2026-04-25T11:41:16.743Z"
+      },
+      {
+        "milId": "mo862zod2koq",
+        "inscritoEm": "2026-04-25T12:40:10.318Z"
+      }
+    ],
+    "createdAt": "2026-04-25T11:23:10.510Z"
+  },
+  {
+    "tipo": "operacao",
+    "titulo": "OPERAÇÃO FLORA",
+    "dataIni": "2026-05-21",
+    "dataFim": "2026-05-28",
+    "hor": "07:00",
+    "horFim": "19:00",
+    "vagas": 4,
+    "localId": "l2",
+    "usuario": "Samuel Ribeiro dos Santos",
+    "id": "moe95x5maot5",
+    "ativo": true,
+    "inscritos": [
+      {
+        "milId": "modr3625zsv1",
+        "inscritoEm": "2026-04-25T11:41:12.910Z"
+      },
+      {
+        "milId": "mo862zod2koq",
+        "inscritoEm": "2026-04-25T12:40:08.403Z"
+      }
+    ],
+    "createdAt": "2026-04-25T11:25:05.434Z"
+  },
+  {
+    "tipo": "operacao",
+    "titulo": "OPERAÇÃO FLORA",
+    "dataIni": "2026-05-25",
+    "dataFim": "2026-05-31",
+    "hor": "07:00",
+    "horFim": "19:00",
+    "vagas": 4,
+    "localId": "",
+    "usuario": "Samuel Ribeiro dos Santos",
+    "id": "moe9rpwma687",
+    "ativo": true,
+    "inscritos": [
+      {
+        "milId": "modr3625zsv1",
+        "inscritoEm": "2026-04-25T11:42:12.617Z"
+      },
+      {
+        "milId": "mo862zod2koq",
+        "inscritoEm": "2026-04-25T12:40:06.321Z"
+      }
+    ],
+    "createdAt": "2026-04-25T11:42:02.470Z"
+  }
+]

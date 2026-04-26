@@ -1,0 +1,47 @@
+[
+  {
+    "id": "l1",
+    "nome": "Sede - 3a CIPMPA",
+    "ativo": true
+  },
+  {
+    "id": "l2",
+    "nome": "Area Urbana - Barra do Garcas",
+    "ativo": true
+  },
+  {
+    "id": "l3",
+    "nome": "Parque Estadual do Araguaia",
+    "ativo": true
+  },
+  {
+    "id": "l4",
+    "nome": "Parque Est. Gruta da Lagoa Azul",
+    "ativo": true
+  },
+  {
+    "id": "l5",
+    "nome": "Area Rural",
+    "ativo": true
+  },
+  {
+    "id": "l6",
+    "nome": "IBAMA Regional",
+    "ativo": true
+  },
+  {
+    "id": "l7",
+    "nome": "INDEA Regional",
+    "ativo": true
+  },
+  {
+    "id": "l8",
+    "nome": "SEMA Estadual",
+    "ativo": true
+  },
+  {
+    "id": "l9",
+    "nome": "Prefeitura Municipal",
+    "ativo": true
+  }
+]

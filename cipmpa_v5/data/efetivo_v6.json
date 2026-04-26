@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nome": "Dayanne Alves da Silva",
+    "nomeGuerra": "DAYANNE",
+    "mat": "881405",
+    "grad": "SUB TEN PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 2,
+    "nome": "Edmilson Lima Macedo",
+    "nomeGuerra": "MACEDO",
+    "mat": "880888",
+    "grad": "SUB TEN PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 3,
+    "nome": "Evaldo Moreira de Araujo Junior",
+    "nomeGuerra": "EVALDO",
+    "mat": "883664",
+    "grad": "2 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 4,
+    "nome": "Flavio Pereira Diniz",
+    "nomeGuerra": "DINIZ",
+    "mat": "883039",
+    "grad": "TEN CEL PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 5,
+    "nome": "Hernandes Aquino Custodio",
+    "nomeGuerra": "HERNANDES",
+    "mat": "884360",
+    "grad": "3 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 6,
+    "nome": "Kassio de Jesus Rocha",
+    "nomeGuerra": "KASSIO",
+    "mat": "882979",
+    "grad": "1 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 7,
+    "nome": "Kleber da Silva Machado",
+    "nomeGuerra": "KLEBER",
+    "mat": "883449",
+    "grad": "1 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 8,
+    "nome": "Luciene Alves de Sousa Lima",
+    "nomeGuerra": "LUCIENE",
+    "mat": "885180",
+    "grad": "3 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 9,
+    "nome": "Luiz Henrique Woiciechowski Cunha",
+    "nomeGuerra": "CUNHA",
+    "mat": "885783",
+    "grad": "2 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 10,
+    "nome": "Marcelo Ricardo de Campos Santos",
+    "nomeGuerra": "CAMPOS",
+    "mat": "883078",
+    "grad": "2 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 11,
+    "nome": "Matheus Carolo do Nascimento",
+    "nomeGuerra": "CAROLO",
+    "mat": "885518",
+    "grad": "MAJ PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 12,
+    "nome": "Mereles Moreira dos Santos Junior",
+    "nomeGuerra": "SANTOS JUNIOR",
+    "mat": "882960",
+    "grad": "1 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 13,
+    "nome": "Nubia Katiane de Jesus Rocha",
+    "nomeGuerra": "NUBIA",
+    "mat": "880888",
+    "grad": "1 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 14,
+    "nome": "Samuel Ribeiro dos Santos",
+    "nomeGuerra": "R. SANTOS",
+    "mat": "884507",
+    "grad": "3 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 15,
+    "nome": "Samuel Vilas Boa Goncalves",
+    "nomeGuerra": "VILAS",
+    "mat": "882031",
+    "grad": "1 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 16,
+    "nome": "Sidiney Pereira dos Santos",
+    "nomeGuerra": "SIDINEY",
+    "mat": "879064",
+    "grad": "1 TEN PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 17,
+    "nome": "Wanderson Ferreira Alves",
+    "nomeGuerra": "F. ALVES",
+    "mat": "886672",
+    "grad": "CB PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 18,
+    "nome": "Weuller da Costa Moraes",
+    "nomeGuerra": "WEULLER",
+    "mat": "882935",
+    "grad": "1 SGT PM",
+    "status": "Ativo"
+  },
+  {
+    "id": 20,
+    "nome": "Antônio Carlos de Oliveira",
+    "nomeGuerra": "A. CARLOS",
+    "mat": "878036",
+    "grad": "3 SGT PM RR A",
+    "status": "Ativo"
+  },
+  {
+    "id": 21,
+    "nome": "Adão Pereira de Abreu",
+    "nomeGuerra": "ABREU",
+    "mat": "875668",
+    "grad": "CB PM RR",
+    "status": "Ativo"
+  },
+  {
+    "id": 22,
+    "nome": "Domervil Luiz Roberto",
+    "nomeGuerra": "ROBERTO",
+    "mat": "875645",
+    "grad": "CB PM RR",
+    "status": "Ativo"
+  },
+  {
+    "id": 23,
+    "nome": "Raimundo Coelho da Luz",
+    "nomeGuerra": "LUZ",
+    "mat": "875666",
+    "grad": "CB PM RR",
+    "status": "Ativo"
+  },
+  {
+    "id": 24,
+    "nome": "José Soares Pimentel",
+    "nomeGuerra": "PIMENTEL",
+    "mat": "875584",
+    "grad": "CB PM RR",
+    "status": "Ativo"
+  },
+  {
+    "id": 25,
+    "nome": "João José de Almeida",
+    "nomeGuerra": "JOAO",
+    "mat": "875506",
+    "grad": "CB PM RR",
+    "status": "Ativo"
+  },
+  {
+    "nome": "Aleksan Blosfeld de Aguiar",
+    "mat": "881917",
+    "grad": "1º Sgt PM",
+    "nomeGuerra": "BLOSFELD",
+    "status": "Ativo",
+    "id": 26,
+    "createdAt": "2026-04-20T18:34:59.717Z"
+  },
+  {
+    "nome": "João Paulo Alves de Freitas Diniz",
+    "mat": "886589",
+    "grad": "CB PM",
+    "nomeGuerra": "FREITAS",
+    "status": "Ativo",
+    "id": 27,
+    "createdAt": "2026-04-21T03:28:50.802Z"
+  }
+]

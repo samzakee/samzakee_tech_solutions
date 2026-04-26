@@ -1,0 +1,55 @@
+[
+  {
+    "id": "f1",
+    "nome": "Comandante de Unidade"
+  },
+  {
+    "id": "f2",
+    "nome": "Comandante Adjunto"
+  },
+  {
+    "id": "f3",
+    "nome": "Coordenador Operacional"
+  },
+  {
+    "id": "f4",
+    "nome": "Auxiliar Administrativo"
+  },
+  {
+    "id": "f5",
+    "nome": "Chefe de Sistemica"
+  },
+  {
+    "id": "f6",
+    "nome": "Comandante de Guarnicao"
+  },
+  {
+    "id": "f7",
+    "nome": "Comandante de Operacao"
+  },
+  {
+    "id": "f8",
+    "nome": "Motorista"
+  },
+  {
+    "id": "f9",
+    "nome": "Patrulheiro"
+  },
+  {
+    "id": "f10",
+    "nome": "Navegador"
+  },
+  {
+    "id": "f11",
+    "nome": "Analista"
+  },
+  {
+    "id": "f12",
+    "nome": "Apoio"
+  },
+  {
+    "nome": "Guarda de Unidade",
+    "id": "mo8ivokhek4u",
+    "createdAt": "2026-04-21T11:10:26.849Z"
+  }
+]

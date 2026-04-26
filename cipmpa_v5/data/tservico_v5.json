@@ -1,0 +1,91 @@
+[
+  {
+    "id": "expediente",
+    "label": "Expediente",
+    "hor": "13:00",
+    "turno": "6 horas",
+    "cor": "amber",
+    "ativo": true
+  },
+  {
+    "id": "diario",
+    "label": "Servico Diario",
+    "hor": "07:00",
+    "turno": "12 horas",
+    "cor": "gray",
+    "ativo": true
+  },
+  {
+    "id": "guarda",
+    "label": "Guarda",
+    "hor": "07:00",
+    "turno": "24 horas",
+    "cor": "blue",
+    "ativo": true
+  },
+  {
+    "id": "flora",
+    "label": "Operacao Flora",
+    "hor": "07:00",
+    "turno": "12 horas",
+    "cor": "green",
+    "ativo": true
+  },
+  {
+    "id": "fauna",
+    "label": "Operacao Fauna",
+    "hor": "07:00",
+    "turno": "12 horas",
+    "cor": "green",
+    "ativo": true
+  },
+  {
+    "id": "indea",
+    "label": "Apoio INDEA",
+    "hor": "07:00",
+    "turno": "12 horas",
+    "cor": "amber",
+    "ativo": true
+  },
+  {
+    "id": "ibama",
+    "label": "Apoio IBAMA",
+    "hor": "07:00",
+    "turno": "12 horas",
+    "cor": "amber",
+    "ativo": true
+  },
+  {
+    "id": "sema",
+    "label": "Apoio SEMA",
+    "hor": "07:00",
+    "turno": "12 horas",
+    "cor": "amber",
+    "ativo": true
+  },
+  {
+    "id": "educacao",
+    "label": "Educacao Ambiental",
+    "hor": "07:00",
+    "turno": "8 horas",
+    "cor": "blue",
+    "ativo": true
+  },
+  {
+    "id": "je",
+    "label": "Jornada Extraordinaria",
+    "hor": "07:00",
+    "turno": "8 horas",
+    "cor": "red",
+    "ativo": true
+  },
+  {
+    "id": "formatura_militar_mo8j09yt",
+    "label": "Formatura Militar",
+    "hor": "16:00",
+    "turno": "2 horas",
+    "cor": "green",
+    "ativo": true,
+    "createdAt": "2026-04-21T11:14:01.211Z"
+  }
+]

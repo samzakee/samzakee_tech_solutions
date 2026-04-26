@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ta1",
+    "nome": "Ferias",
+    "afeta": true
+  },
+  {
+    "id": "ta2",
+    "nome": "Licenca Premio",
+    "afeta": true
+  },
+  {
+    "id": "ta3",
+    "nome": "Licenca Tratamento Interesse Particular",
+    "afeta": true
+  },
+  {
+    "id": "ta4",
+    "nome": "Licenca Maternidade",
+    "afeta": true
+  },
+  {
+    "id": "ta6",
+    "nome": "Licenca Tratamento Saude",
+    "afeta": true
+  },
+  {
+    "id": "ta7",
+    "nome": "Licenca Especial",
+    "afeta": true
+  },
+  {
+    "nome": "Núpcias",
+    "afeta": true,
+    "id": "mo8iwhha15o9",
+    "createdAt": "2026-04-21T11:11:04.318Z"
+  },
+  {
+    "nome": "Luto",
+    "afeta": true,
+    "id": "mo8iwm51wp96",
+    "createdAt": "2026-04-21T11:11:10.357Z"
+  },
+  {
+    "nome": "Folga AVNM",
+    "afeta": true,
+    "id": "mo8ix0xnztfo",
+    "createdAt": "2026-04-21T11:11:29.531Z"
+  },
+  {
+    "nome": "Licença Paternidade",
+    "afeta": true,
+    "id": "mo8ixd3n33it",
+    "createdAt": "2026-04-21T11:11:45.299Z"
+  }
+]

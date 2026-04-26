@@ -1,0 +1,65 @@
+[
+  {
+    "milId": 27,
+    "tipoId": "ta2",
+    "dataIni": "2026-04-10",
+    "dataFim": "2026-04-29",
+    "obs": "",
+    "id": "mo8n3t9k72gp",
+    "createdAt": "2026-04-21T13:08:44.648Z"
+  },
+  {
+    "milId": 2,
+    "tipoId": "ta1",
+    "dataIni": "2026-04-13",
+    "dataFim": "2026-05-12",
+    "obs": "",
+    "id": "mo8n5swz2a3l",
+    "createdAt": "2026-04-21T13:10:17.507Z"
+  },
+  {
+    "milId": 1,
+    "tipoId": "ta1",
+    "dataIni": "2026-04-03",
+    "dataFim": "2026-05-02",
+    "obs": "",
+    "id": "mo8n75fwn6r7",
+    "createdAt": "2026-04-21T13:11:20.396Z"
+  },
+  {
+    "milId": 7,
+    "tipoId": "ta1",
+    "dataIni": "2026-04-04",
+    "dataFim": "2026-05-03",
+    "obs": "",
+    "id": "mo8n8fd21s99",
+    "createdAt": "2026-04-21T13:12:19.910Z"
+  },
+  {
+    "milId": 25,
+    "tipoId": "mo8ix0xnztfo",
+    "dataIni": "2026-04-13",
+    "dataFim": "2026-05-12",
+    "obs": "",
+    "id": "mo8n90yda7iy",
+    "createdAt": "2026-04-21T13:12:47.893Z"
+  },
+  {
+    "milId": 3,
+    "tipoId": "ta2",
+    "dataIni": "2026-03-23",
+    "dataFim": "2026-04-21",
+    "obs": "",
+    "id": "mo8n9r9b3b00",
+    "createdAt": "2026-04-21T13:13:21.983Z"
+  },
+  {
+    "milId": 16,
+    "tipoId": "ta1",
+    "dataIni": "2026-05-01",
+    "dataFim": "2026-05-30",
+    "obs": "",
+    "id": "modbvbbsx1uu",
+    "createdAt": "2026-04-24T19:53:03.256Z"
+  }
+]

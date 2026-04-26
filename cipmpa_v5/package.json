@@ -1,0 +1,12 @@
+{
+  "name": "sistema-escala-3cipmpa",
+  "version": "6.0.0",
+  "description": "Sistema de Escala de Servico - 3a CIPMPA",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  },
+  "author": "3a CIPMPA",
+  "license": "ISC"
+}

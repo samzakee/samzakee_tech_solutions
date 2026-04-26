@@ -1,0 +1,222 @@
+[
+  {
+    "id": "u1",
+    "nome": "Flavio Pereira Diniz",
+    "mat": "883039",
+    "login": "883039",
+    "senha": "d5cc84cfb0ee629f3bd3d4bbee3c266e:60adc205ea0c82d4e1a34e790a5e1892c0bce2141d80b9fdc0904fccc76a90c37c58d75bf307d5ad7a2de7b4f67b5cdde28ea7eb1720ac5923a295163ef395d8",
+    "email": "flaviodiniz@pm.mt.gov.br",
+    "perfil": "Administrador",
+    "ativo": true,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "nome": "Matheus Carolo do Nascimento",
+    "mat": "885518",
+    "login": "885518",
+    "senha": "d38d98eb2a0a40da0d00c939a6a3ea09:43c17a576b18834c58994877efac6d3ac1a5b567fcb0bfceed6f2d1622248231827c5cc8f5a0256595dc8b75d7db878c3b3c1bf7a3fba7488c8ce16be427fa38",
+    "email": "matheusnascimento@pm.mt.gov.br",
+    "perfil": "Administrador",
+    "ativo": true,
+    "id": "mo7mgstqwapw",
+    "createdAt": "2026-04-20T20:03:04.815Z"
+  },
+  {
+    "nome": "Luciene Alves de Sousa Lima",
+    "mat": "885180",
+    "login": "885180",
+    "senha": "ba4e5b150e9caaf2e1428ac468a15262:4e2a411cd493a07ff72c0f03867a9f0a448596fa77ad9636d4012e23db485c764a6fbd72e18edb634ed83fb9ea8173e000b54609038e49a8e2e5394b7a4f5433",
+    "email": "lucienealvesbg@gmail.com",
+    "perfil": "Operador",
+    "ativo": true,
+    "id": "mo862zod2koq",
+    "createdAt": "2026-04-21T05:12:12.832Z"
+  },
+  {
+    "nome": "Samuel Ribeiro dos Santos",
+    "mat": "884507",
+    "login": "884507",
+    "senha": "4013777e23d6c306518fbe30dbb58614:c64ee79f287e6dd844b57313f2580fbcf6b2b77b4abc392962e9a762c6617cc78330080cdc2f2a4c3074b5c5deeeb5aecff1dd4b76dccc0608bc0fbf9e96f82d",
+    "email": "sribeiro@pm.mt.gov.br",
+    "perfil": "Administrador",
+    "ativo": true,
+    "id": "modr3625zsv1",
+    "createdAt": "2026-04-25T02:59:03.931Z"
+  },
+  {
+    "nome": "Wanderson Ferreira Alves",
+    "mat": "886672",
+    "login": "886672",
+    "senha": "8cbcd0b7cb452ba5960307a73d3525b1:934e130dc4ed873b27bc6147df75ddfc0e8454a17d498c16757cf35e4d38eb176c0ab6a2e4a8fb32073a283f97ef89b6aab316d0acb120893aa049bd42d7477a",
+    "email": "wanderson_ferreira2015@hotmail.com",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "modr41vgci5n",
+    "createdAt": "2026-04-25T02:59:45.148Z"
+  },
+  {
+    "nome": "Sidiney Pereira dos Santos",
+    "mat": "879064",
+    "login": "879064",
+    "senha": "117436d1c7df9a9e82dc22680249e805:3d2c9c22dadc061644a042fe87d216f8aece5989ab74b17c7c30cc448f5354465391154cfd583d56e332e836baabcbb0da7eb82d645262ee9ae003a80e235a16",
+    "email": "sidiney@pm.mt.gov.br",
+    "perfil": "Administrador",
+    "ativo": true,
+    "id": "moece5dtlpwe",
+    "createdAt": "2026-04-25T12:55:28.193Z"
+  },
+  {
+    "nome": "Edmilson Lima de Macedo",
+    "mat": "880888",
+    "login": "880888",
+    "senha": "91a0e63d2eb457a7dabde00f02eb25be:ff92b6b37f949d7cfb1f2fca7cf2660e847dd796317f9c21f0e6694a73a8820031ac64c959ef4ff3835c1a65e63c0cffd4b800ec871d680fa55deae37f011c60",
+    "email": "macedo@pm.mt.gov.br",
+    "perfil": "Administrador",
+    "ativo": true,
+    "id": "moecg541u1j3",
+    "createdAt": "2026-04-25T12:57:01.153Z"
+  },
+  {
+    "nome": "Evaldo Moreira de Araujo Junior",
+    "mat": "883664",
+    "login": "883664",
+    "senha": "df2ad89c7df98c25cdc11c10b8763bd8:775ac8b5fdc26c2b12413d31bc0bcbed1d5d319e51686ae6fc90b7593c20180d7115252427e072974b6f221dd5d2fc7fb040a2d216a51be89d03064b94695489",
+    "email": "evaldojunior@pm.mt.gov.br",
+    "perfil": "Operador",
+    "ativo": true,
+    "id": "moech8f0x4tk",
+    "createdAt": "2026-04-25T12:57:52.092Z"
+  },
+  {
+    "nome": "Dayanne Alves da Silva",
+    "mat": "881405",
+    "login": "881405",
+    "senha": "0133d2dbeb67e2262d1d0118ac83b72e:a4e43b59a0e8a51fa5aeab06a0ca8a077f05e5fe29f4b97fad7d60cbc1ef40901790c37f4a02d1784f09f4e33cce281d825b633d5954395bce7b7969e9c1924a",
+    "email": "dayannealvesdasilva83@gmail.com",
+    "perfil": "Operador",
+    "ativo": true,
+    "id": "moecm7hx0tww",
+    "createdAt": "2026-04-25T13:01:44.181Z"
+  },
+  {
+    "nome": "Núbia Katiane de Jesus Rocha",
+    "mat": "880885",
+    "login": "880885",
+    "senha": "3c0cb9bcfef6ea581e07d8a615085ba7:e3e6d30a1d009304aa69d74746a1ec4e054bb1a6ea76ec31a4e6a3cb526b77bd7cb32700cc97a2ab56e30a199f46104c87fa5c755cc22e67cb20d8b01d2ebd1a",
+    "email": "nkatiane@hotmail.com",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moecnbwhk9pp",
+    "createdAt": "2026-04-25T13:02:36.545Z"
+  },
+  {
+    "nome": "Aleksan Blosfeld de Aguiar",
+    "mat": "881917",
+    "login": "881917",
+    "senha": "fc639100f8a63a3377ff72f2f0851e67:04274873b3056d4c959ddeee6e58e1357487566329db5a5f2b09cb00dfc983d603829e016065d56eb0823440b0f80dcca59fc3d18706f36c9eda29f9148aad60",
+    "email": "aleksanaguiar@pm.mt.gov.br",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moecs27xxbrg",
+    "createdAt": "2026-04-25T13:06:17.277Z"
+  },
+  {
+    "nome": "Samuel Vilas Boa Gonçalves",
+    "mat": "882031",
+    "login": "882031",
+    "senha": "78710fb940eddd6ed7e6b13fa5075191:03851a3f58fa4b980e21af68c1372fe5cb1151d2fc89a39d36247da53e19c810e886cf27871236b760e891149c963bf48026ed2c3eb49e8a79edf5af4c41404b",
+    "email": "samuelvilasboa4@gmail.com",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moecut6oysgb",
+    "createdAt": "2026-04-25T13:08:25.536Z"
+  },
+  {
+    "nome": "Weuller Costa de Moraes",
+    "mat": "882935",
+    "login": "882935",
+    "senha": "5557721c6ed23e16351e5812d27898ee:a2cfd66c2b37151961dfb92eedf62b08cdd645f3d0a54ded574f12498591adcdaedd461c544d6adbf01d81d59ad0c10cfd4021bced2b6495bdf034476c2c62e8",
+    "email": "weullermoraes@pm.mt.gov.br",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moecw062o6fm",
+    "createdAt": "2026-04-25T13:09:21.242Z"
+  },
+  {
+    "nome": "Mereles Moreira dos Santos Junior",
+    "mat": "882960",
+    "login": "882960",
+    "senha": "a090ec6871fb59bbd8b30f8fb155c8d9:433f0aec2fb2d51d3474d3e1474f5d12be18abea0624169203c498bd4941d1038b8035d22f603a663aaabea7371e907287658ba89fd9293e787b9ee587fd2317",
+    "email": "Meirelesjunior34@gmail.com",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moecz63m5y8e",
+    "createdAt": "2026-04-25T13:11:48.898Z"
+  },
+  {
+    "nome": "Kassio de Jesus Rocha",
+    "mat": "882979",
+    "login": "882979",
+    "senha": "a7e2a0a69a7f9aa7cfe6597fdcfe38a2:251f5ec5a132337408a051acd2402e2170308f5f1a955ba0fbe1d464c5decdd89ee1abe0e1fb52d3bd888b6b7e3fcb511845fffa8825a754adcb9bdbf7839baa",
+    "email": "kassioft@hotmail.com",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moed0q9banbp",
+    "createdAt": "2026-04-25T13:13:01.679Z"
+  },
+  {
+    "nome": "Kleber da Silva Machado",
+    "mat": "883049",
+    "login": "883049",
+    "senha": "99f2dee263b3e169425ed800d746b3b3:35d7a86df1fb75f35f9e01ed177e3fdb55c2c1dfa64b51b2e8df621e889918953cb73f36d7a13da0be7b91bc1bda4d318361705293158f835f3036ae563644da",
+    "email": "3cipmpaaraguaia@pm.mt.gov.br",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moed28r6achy",
+    "createdAt": "2026-04-25T13:14:12.306Z"
+  },
+  {
+    "nome": "Marcelo Ricardo de Campos Santos",
+    "mat": "883078",
+    "login": "883078",
+    "senha": "55dfefb840c5afbf258987d5da99174b:f87782ff1eb6cf4e6d73d20b7b68f2095351e6d9b3a9f6d3d090e0866c8f9876c3ec265dfc2b81c3bbf2051fd27de99254edc3274bf951d48e2993c1ca4ac79c",
+    "email": "mrcsrotanzeiro@gmail.com",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moed44n1sxyv",
+    "createdAt": "2026-04-25T13:15:40.285Z"
+  },
+  {
+    "nome": "Luiz Henrique Woiciechowski Cunha",
+    "mat": "885783",
+    "login": "885783",
+    "senha": "065955e9a2f8b5bedf951726d1737051:16474cb993e6e21356e68d239fa1b90f74e87870d878885df241f471f51396ee675887357ba1654fd4bf60a233b30b0a0083a89d63ddaaba0be3e120f0875cc1",
+    "email": "luizcunha@pm.mt.gov.br",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moed5u31byk3",
+    "createdAt": "2026-04-25T13:16:59.917Z"
+  },
+  {
+    "nome": "Hernandes Aquino Custódio",
+    "mat": "884360",
+    "login": "884360",
+    "senha": "308dfe6691a67b790c5fc37b4118d06b:118bef20fbd68f30f16503a15af3b577dfeeed78451aacda3929a8e9104b792c37671e72d44d54490552bf563a496368ab057e9d43565054e34be995b2b34ca7",
+    "email": "hernandes_custodio@pm.mt.gov.br",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moed6v03c13v",
+    "createdAt": "2026-04-25T13:17:47.763Z"
+  },
+  {
+    "nome": "João Paulo Alves de Freitas Diniz",
+    "mat": "886589",
+    "login": "886589",
+    "senha": "f5190c39a080e6e582963f64c115addf:97f86bfc1c8a0f52cf5aab67212ba44933dba7c428480078f227a071a994d874d819fdd759dcde44b08fd1a84122251f75e612ffabd764bdea678399fa6a7279",
+    "email": "jp_dbgmt@hotmail.com",
+    "perfil": "Usuario",
+    "ativo": true,
+    "id": "moed9fxt0ut3",
+    "createdAt": "2026-04-25T13:19:48.209Z"
+  }
+]
