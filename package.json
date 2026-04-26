@@ -1,0 +1,16 @@
+{
+  "name": "3acipmpa-escala",
+  "version": "7.2.0",
+  "description": "Sistema de Escala 3ª CIPMPA",
+  "main": "cipmpa_v5/server.js",
+  "scripts": {
+    "start": "node cipmpa_v5/server.js",
+    "dev": "node cipmpa_v5/server.js"
+  },
+  "keywords": [
+    "escala",
+    "cipmpa"
+  ],
+  "author": "Samuel",
+  "license": "ISC"
+}
