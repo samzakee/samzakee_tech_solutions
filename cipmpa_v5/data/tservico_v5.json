@@ -24,6 +24,14 @@
     "ativo": true
   },
   {
+    "id": "patrulhamento",
+    "label": "Patrulhamento Urbano",
+    "hor": "07:00",
+    "turno": "12 horas",
+    "cor": "teal",
+    "ativo": true
+  },
+  {
     "id": "flora",
     "label": "Operacao Flora",
     "hor": "07:00",
@@ -64,6 +72,14 @@
     "ativo": true
   },
   {
+    "id": "prefeitura",
+    "label": "Apoio Prefeitura",
+    "hor": "07:00",
+    "turno": "12 horas",
+    "cor": "amber",
+    "ativo": true
+  },
+  {
     "id": "educacao",
     "label": "Educacao Ambiental",
     "hor": "07:00",
@@ -78,14 +94,5 @@
     "turno": "8 horas",
     "cor": "red",
     "ativo": true
-  },
-  {
-    "id": "formatura_militar_mo8j09yt",
-    "label": "Formatura Militar",
-    "hor": "16:00",
-    "turno": "2 horas",
-    "cor": "green",
-    "ativo": true,
-    "createdAt": "2026-04-21T11:14:01.211Z"
   }
 ]

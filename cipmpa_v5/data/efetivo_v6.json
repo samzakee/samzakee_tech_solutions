@@ -4,7 +4,7 @@
     "nome": "Dayanne Alves da Silva",
     "nomeGuerra": "DAYANNE",
     "mat": "881405",
-    "grad": "SUB TEN PM",
+    "grad": "3 SGT PM",
     "status": "Ativo"
   },
   {
@@ -20,7 +20,7 @@
     "nome": "Evaldo Moreira de Araujo Junior",
     "nomeGuerra": "EVALDO",
     "mat": "883664",
-    "grad": "2 SGT PM",
+    "grad": "3 SGT PM",
     "status": "Ativo"
   },
   {
@@ -44,7 +44,7 @@
     "nome": "Kassio de Jesus Rocha",
     "nomeGuerra": "KASSIO",
     "mat": "882979",
-    "grad": "1 SGT PM",
+    "grad": "2 SGT PM",
     "status": "Ativo"
   },
   {
@@ -92,7 +92,7 @@
     "nome": "Mereles Moreira dos Santos Junior",
     "nomeGuerra": "SANTOS JUNIOR",
     "mat": "882960",
-    "grad": "1 SGT PM",
+    "grad": "2 SGT PM",
     "status": "Ativo"
   },
   {
@@ -144,16 +144,24 @@
     "status": "Ativo"
   },
   {
+    "id": 19,
+    "nome": "Joao Paulo Alves de Freitas Diniz",
+    "nomeGuerra": "J.P. DINIZ",
+    "mat": "886589",
+    "grad": "CB PM",
+    "status": "Ativo"
+  },
+  {
     "id": 20,
-    "nome": "Antônio Carlos de Oliveira",
-    "nomeGuerra": "A. CARLOS",
+    "nome": "Carlos",
+    "nomeGuerra": "CARLOS",
     "mat": "878036",
     "grad": "3 SGT PM RR A",
     "status": "Ativo"
   },
   {
     "id": 21,
-    "nome": "Adão Pereira de Abreu",
+    "nome": "Abreu",
     "nomeGuerra": "ABREU",
     "mat": "875668",
     "grad": "CB PM RR",
@@ -161,7 +169,7 @@
   },
   {
     "id": 22,
-    "nome": "Domervil Luiz Roberto",
+    "nome": "Roberto",
     "nomeGuerra": "ROBERTO",
     "mat": "875645",
     "grad": "CB PM RR",
@@ -169,7 +177,7 @@
   },
   {
     "id": 23,
-    "nome": "Raimundo Coelho da Luz",
+    "nome": "Luz",
     "nomeGuerra": "LUZ",
     "mat": "875666",
     "grad": "CB PM RR",
@@ -177,7 +185,7 @@
   },
   {
     "id": 24,
-    "nome": "José Soares Pimentel",
+    "nome": "Pimentel",
     "nomeGuerra": "PIMENTEL",
     "mat": "875584",
     "grad": "CB PM RR",
@@ -185,28 +193,10 @@
   },
   {
     "id": 25,
-    "nome": "João José de Almeida",
+    "nome": "Joao",
     "nomeGuerra": "JOAO",
     "mat": "875506",
     "grad": "CB PM RR",
     "status": "Ativo"
-  },
-  {
-    "nome": "Aleksan Blosfeld de Aguiar",
-    "mat": "881917",
-    "grad": "1º Sgt PM",
-    "nomeGuerra": "BLOSFELD",
-    "status": "Ativo",
-    "id": 26,
-    "createdAt": "2026-04-20T18:34:59.717Z"
-  },
-  {
-    "nome": "João Paulo Alves de Freitas Diniz",
-    "mat": "886589",
-    "grad": "CB PM",
-    "nomeGuerra": "FREITAS",
-    "status": "Ativo",
-    "id": 27,
-    "createdAt": "2026-04-21T03:28:50.802Z"
   }
 ]

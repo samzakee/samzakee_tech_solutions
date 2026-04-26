@@ -2,55 +2,85 @@
   {
     "id": "ta1",
     "nome": "Ferias",
-    "afeta": true
+    "afeta": true,
+    "diasMax": 30
   },
   {
     "id": "ta2",
     "nome": "Licenca Premio",
-    "afeta": true
+    "afeta": true,
+    "diasMax": null
   },
   {
     "id": "ta3",
     "nome": "Licenca Tratamento Interesse Particular",
-    "afeta": true
+    "afeta": true,
+    "diasMax": null
   },
   {
     "id": "ta4",
     "nome": "Licenca Maternidade",
-    "afeta": true
+    "afeta": true,
+    "diasMax": 180
+  },
+  {
+    "id": "ta5",
+    "nome": "Licenca Paternidade",
+    "afeta": true,
+    "diasMax": 8
   },
   {
     "id": "ta6",
     "nome": "Licenca Tratamento Saude",
-    "afeta": true
+    "afeta": true,
+    "diasMax": null
   },
   {
     "id": "ta7",
     "nome": "Licenca Especial",
-    "afeta": true
-  },
-  {
-    "nome": "Núpcias",
     "afeta": true,
-    "id": "mo8iwhha15o9",
-    "createdAt": "2026-04-21T11:11:04.318Z"
+    "diasMax": null
   },
   {
+    "id": "ta8",
+    "nome": "Nupcias (Casamento)",
+    "afeta": true,
+    "diasMax": 8
+  },
+  {
+    "id": "ta9",
     "nome": "Luto",
     "afeta": true,
-    "id": "mo8iwm51wp96",
-    "createdAt": "2026-04-21T11:11:10.357Z"
+    "diasMax": 8
   },
   {
+    "id": "ta10",
+    "nome": "Transito e Instalacao",
+    "afeta": true,
+    "diasMax": 30
+  },
+  {
+    "id": "ta11",
     "nome": "Folga AVNM",
     "afeta": true,
-    "id": "mo8ix0xnztfo",
-    "createdAt": "2026-04-21T11:11:29.531Z"
+    "diasMax": null
   },
   {
-    "nome": "Licença Paternidade",
+    "id": "ta12",
+    "nome": "Dispensa Medica",
     "afeta": true,
-    "id": "mo8ixd3n33it",
-    "createdAt": "2026-04-21T11:11:45.299Z"
+    "diasMax": null
+  },
+  {
+    "id": "ta13",
+    "nome": "Curso / Instrucao",
+    "afeta": true,
+    "diasMax": null
+  },
+  {
+    "id": "ta14",
+    "nome": "Missao / Deslocamento a Servico",
+    "afeta": false,
+    "diasMax": null
   }
 ]
