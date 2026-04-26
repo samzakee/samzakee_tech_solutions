@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ta1",
+    "nome": "Ferias",
+    "afeta": true,
+    "diasMax": 30
+  },
+  {
+    "id": "ta2",
+    "nome": "Licenca Premio",
+    "afeta": true,
+    "diasMax": null
+  },
+  {
+    "id": "ta3",
+    "nome": "Licenca Tratamento Interesse Particular",
+    "afeta": true,
+    "diasMax": null
+  },
+  {
+    "id": "ta4",
+    "nome": "Licenca Maternidade",
+    "afeta": true,
+    "diasMax": 180
+  },
+  {
+    "id": "ta5",
+    "nome": "Licenca Paternidade",
+    "afeta": true,
+    "diasMax": 8
+  },
+  {
+    "id": "ta6",
+    "nome": "Licenca Tratamento Saude",
+    "afeta": true,
+    "diasMax": null
+  },
+  {
+    "id": "ta7",
+    "nome": "Licenca Especial",
+    "afeta": true,
+    "diasMax": null
+  },
+  {
+    "id": "ta8",
+    "nome": "Nupcias (Casamento)",
+    "afeta": true,
+    "diasMax": 8
+  },
+  {
+    "id": "ta9",
+    "nome": "Luto",
+    "afeta": true,
+    "diasMax": 8
+  },
+  {
+    "id": "ta10",
+    "nome": "Transito e Instalacao",
+    "afeta": true,
+    "diasMax": 30
+  },
+  {
+    "id": "ta11",
+    "nome": "Folga AVNM",
+    "afeta": true,
+    "diasMax": null
+  },
+  {
+    "id": "ta12",
+    "nome": "Dispensa Medica",
+    "afeta": true,
+    "diasMax": null
+  },
+  {
+    "id": "ta13",
+    "nome": "Curso / Instrucao",
+    "afeta": true,
+    "diasMax": null
+  },
+  {
+    "id": "ta14",
+    "nome": "Missao / Deslocamento a Servico",
+    "afeta": false,
+    "diasMax": null
+  }
+]

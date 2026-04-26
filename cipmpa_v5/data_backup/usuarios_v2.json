@@ -1,0 +1,35 @@
+[
+  {
+    "id": "u1",
+    "nome": "Flavio Pereira Diniz",
+    "mat": "883039",
+    "login": "883039",
+    "senha": "883039",
+    "email": "",
+    "perfil": "Administrador",
+    "ativo": true,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "u2",
+    "nome": "Samuel Ribeiro dos Santos",
+    "mat": "884507",
+    "login": "884507",
+    "senha": "884507",
+    "email": "",
+    "perfil": "Administrador",
+    "ativo": true,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "u3",
+    "nome": "Desenvolvedor Sistema",
+    "mat": "000000",
+    "login": "000000",
+    "senha": "dev@3cipmpa",
+    "email": "",
+    "perfil": "Desenvolvedor",
+    "ativo": true,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  }
+]
